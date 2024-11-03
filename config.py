@@ -1,4 +1,5 @@
 from os import environ 
+from os import getenv
 
 class Config:
     API_ID = environ.get("API_ID", "24894984")
