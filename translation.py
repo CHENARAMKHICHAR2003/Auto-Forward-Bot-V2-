@@ -4,7 +4,7 @@ from config import Config
 class Translation(object):
   START_TXT = """<b>ʜᴇʟʟᴏ {}</b>
 
-<i>ɪ'ᴍ ᴀ <b>ᴘᴏᴡᴇʀғᴜʟʟ</b> ᴀᴜᴛᴏ ғᴏʀᴡᴀʀᴅ ʙᴏᴛ
+<i>ɪ'ᴍ ᴀ <b>ᴘᴏᴡᴇʀғᴜʟʟ</b> ᴀᴜᴛᴏ ғᴏʀᴡᴀʀᴅ ʙᴏᴛ DEVELOPER>> CR CHOUDHARY 
 
 ɪ ᴄᴀɴ ғᴏʀᴡᴀʀᴅ ᴀʟʟ ᴍᴇssᴀɢᴇ ғʀᴏᴍ ᴏɴᴇ ᴄʜᴀɴɴᴇʟ ᴛᴏ ᴀɴᴏᴛʜᴇʀ ᴄʜᴀɴɴᴇʟ</i> <b>➜ ᴡɪᴛʜ ᴍᴏʀᴇ ғᴇᴀᴛᴜʀᴇs.
 ᴄʟɪᴄᴋ ʜᴇʟᴘ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴋɴᴏᴡ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴇ</b>"""
@@ -39,10 +39,10 @@ class Translation(object):
   
   ABOUT_TXT = """<b>╭──────❰ 🤖 Bot Details ❱──────〄
 │ 
-│ 🤖 Mʏ Nᴀᴍᴇ : <a href=https://t.me/devganbot>Dev Gagan Botᴛ</a>
-│ 👨‍💻 ᴅᴇᴠᴘʟᴏᴇʀ : <a href=https://t.me/dev_gagan>Team SPY</a>
-│ 🤖 ᴜᴘᴅᴀᴛᴇ  : <a href=https://t.me/dev_gagan>devgagan</a>
-│ 📡 ʜᴏsᴛ ᴏɴ : <a href=https://devgagan.in/>Dev Gagan Host</a>
+│ 🤖 Mʏ Nᴀᴍᴇ : <a href=https://t.me/targetallcourse>MR.CR_CHOUDHARY</a>
+│ 👨‍💻 ᴅᴇᴠᴘʟᴏᴇʀ : <a href=https://t.me/TARGETALLCOURSE>Team SPY</a>
+│ 🤖 ᴜᴘᴅᴀᴛᴇ  : <a href=https://t.me/TARGETALLCOURSE>jaat</a>
+│ 📡 ʜᴏsᴛ ᴏɴ : <a href=https://devgagan.in/>JAI SHREE RAM Host</a>
 │ 🗣️ ʟᴀɴɢᴜᴀɢᴇ  : ᴘʏᴛʜᴏɴ 3 
 {python_version}
 │ 📚 ʟɪʙʀᴀʀʏ  : ᴘʏʀᴏɢʀᴀᴍ  
