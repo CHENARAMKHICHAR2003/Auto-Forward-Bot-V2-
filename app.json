@@ -22,6 +22,11 @@
       "description": "Get this value from https://my.telegram.org or @UseTGSBot",
       "value": ""
     },
+    "CHANNEL_ID": {
+      "description": "Enter Channel ID (-100) and make bot admin there",
+      "value": "channel_id_here",
+      "required": true
+    },
     "BOT_TOKEN": {
       "description": "Your bot token from @BotFather",
       "value": ""
