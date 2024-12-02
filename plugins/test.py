@@ -115,7 +115,7 @@ class CLIENT:
     
   async def add_session(self, bot, message):
      user_id = int(message.from_user.id)
-     text = "<b>⚠️ DISCLAIMER ⚠️</b>\n\n<code>you can use your session for forward message from private chat to another chat.\nPlease add your pyrogram session with your own risk. Their is a chance to ban your account. My developer is not responsible if your account may get banned.</code>"
+     text = "<b>⚠️ DISCLAIMER ⚠️</b>\n\n<code>you can use your session for forward message from private chat to another chat.</code>"
      await bot.send_message(user_id, text=text)
      msg = await bot.ask(chat_id=user_id, text="<b>send your pyrogram session.\nGet it from trusted sources.\n\n/cancel - cancel the process</b>")
      if msg.text=='/cancel':
